@@ -1,0 +1,2 @@
+# ~/.crontab
+55 11,14,21 * 7 * chrome "https://go90.com" --new-window
